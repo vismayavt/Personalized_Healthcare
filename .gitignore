@@ -1,7 +1,1 @@
-
-model.pkl
-pipeline.pkl
-*.pkl
-*.joblib
-"*.pkl" 
 *.pkl 
