@@ -4,3 +4,4 @@ pipeline.pkl
 *.pkl
 *.joblib
 "*.pkl" 
+*.pkl 
